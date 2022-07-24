@@ -10,6 +10,8 @@ curl -fsSL https://bun.sh/install | bash
 
 ```
 
+If using Windows, using the [linux subsystem](https://docs.microsoft.com/en-us/windows/wsl/about) is required.
+
 When bun has been installed, you must install the project's dependencies by typing:
 
 ```sh
